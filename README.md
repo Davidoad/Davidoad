@@ -1,8 +1,14 @@
 # Hello, I'm David Oduneye
+
 <a href="https://linkedin.com/in/davidoduneye/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 I am a highly motivated and detail-oriented Cybersecurity Analyst with a strong focus on identifying and mitigating risks, threats, and vulnerabilities to ensure the confidentiality, integrity, and availability of critical assets. My objective is to implement effective security measures that protect both organizations and individuals from evolving cyber threats.
-My name is David Oduneye, and I am deeply passionate about enhancing security, particularly in safeguarding financial assets and sensitive information. With a robust background as an IT Auditor in the financial sector, I hold certifications in both Certified Information Systems Auditor (CISA) and cybersecurity. I thrive on leveraging technology to address complex challenges and deliver impactful solutions.
+
+My name is David Oduneye, and I am deeply passionate about enhancing security, particularly in safeguarding financial assets and sensitive information. With a robust background as an IT Auditor in the financial sector, I hold certifications in both Certified Information Systems Auditor (CISA) and cybersecurity. 
+I thrive on leveraging technology to address complex challenges and deliver impactful solutions.
+
 I am currently seeking a position as a Cybersecurity Analyst, where I can apply my skills and experience to contribute to the security and resilience of an organization.
+
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
