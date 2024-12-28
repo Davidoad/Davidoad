@@ -10,6 +10,7 @@ I am currently seeking a position as a Cybersecurity Analyst, where I can apply 
 ## Objective
 
 My journey as an IT Auditor has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
 with a strong focus on identifying and mitigating risks, threats, and vulnerabilities to ensure the confidentiality, integrity, and availability of critical assets. My objective is to implement effective security measures that protect both organizations and individuals from evolving cyber threats.
 
 ## Skills
