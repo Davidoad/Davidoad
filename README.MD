@@ -14,11 +14,11 @@ My journey as an IT Auditor has led me to develop a passion for cybersecurity, a
 with a strong focus on identifying and mitigating risks, threats, and vulnerabilities to ensure the confidentiality, integrity, and availability of critical assets. My objective is to implement effective security measures that protect both organizations and individuals from evolving cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scripting and Automation for Threat Mitigation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>|
+| internal audit controls, compliance checklist and recommendation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
