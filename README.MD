@@ -28,7 +28,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -51,15 +51,13 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
+<img src="https://img.shields.io/badge/-CISA-FF5733?style=for-the-badge&logo=ISACA&logoColor=white" alt="CISA Certification Badge" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
+- internal audit controls, compliance checklist and recommendation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>
 - SOC Automation Project
