@@ -59,5 +59,5 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 </div>
 
 ## Projects
-- internal audit controls, compliance checklist and recommendation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>
+- internal audit controls, compliance checklist and recommendation | <a href="https://github.com/Davidoad/Project/blob/main/README.md" target="_blank">GitHub Code Link</a> <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>
 - SOC Automation Project
