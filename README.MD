@@ -18,7 +18,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
