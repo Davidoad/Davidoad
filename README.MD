@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/davidoduneye/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am deeply passionate about enhancing security, particularly in safeguarding financial assets and sensitive information. With a robust background as an IT Auditor in the financial sector, I hold certifications in both Certified Information Systems Auditor (CISA) and cybersecurity. 
+With a robust background as an IT Auditor in the financial sector, I hold certifications in both Certified Information Systems Auditor (CISA) and cybersecurity. 
 I thrive on leveraging technology to address complex challenges and deliver impactful solutions.
 
 I am currently seeking a position as a Cybersecurity Analyst, where I can apply my skills and experience to contribute to the security and resilience of an organization.
