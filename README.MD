@@ -19,7 +19,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | internal audit controls, compliance checklist and recommendation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>|
-| Analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. inspect network traffic and analyze network data to determine what is causing network-related issues during cybersecurity incident| <a href="https://google.com">https://docs.google.com/document/d/1OAq6_wSzoEV_ZvXXGZcoGugSpZQPmU7h6qNRzLz-VYQ/edit?usp=sharing</a>|
+| Analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. inspect network traffic and analyze network data to determine what is causing network-related issues during cybersecurity incident| <a href="https://google.com">https://docs.google.com/document/d/1OAq6_wSzoEV_ZvXXGZcoGugSpZQPmU7h6qNRzLz-VYQ/edit?usp=sharing" target="_blank">Google Document</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
