@@ -23,7 +23,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 | Analyze network attack Caused by SYN flood attack (DoS attack) | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
 | Investigate Network Traffic Monitoring and Attack Detection Using Wireshark TCP/HTTP log | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
 | Implement OS hardening techniques protection against brute force attack        | <a href="http://docs.google.com/document/d/1zdhsEIVB4p4gS9OW8pfoQ0_UYDXVby_3ilKq_ZXX3qE/edit?usp=sharing" target="_blank">Google Document</a>|
-Improve company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
+Improve company network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) | <a href="http://docs.google.com/document/d/1z8hj6w12k9z-EFN4hx9EAY2TF8Y6mgWctsGuPrkzamA/edit?usp=sharing" target="_blank">Google Document</a>|
 | Hardening tools and methods to address vulnerability | <a href="http://docs.google.com/document/d/1PSkGs5Q-S0KSqjvVlMPLPY_esdNfUWXsqwhziV5Fn7Y/edit?usp=sharing" target="_blank">Google Document</a>|
 | Case Management                  | SOC Automation Lab|
 | Incident Response Planning and Execution | SOC Automation Lab|
