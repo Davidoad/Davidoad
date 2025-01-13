@@ -21,7 +21,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 | Internal audit controls, compliance checklist and recommendation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>|
 | Identify DNS and ICMP traffic in transit using data from a tcpdump network protocol analyzer tool | <a href="http://docs.google.com/document/d/1OAq6_wSzoEV_ZvXXGZcoGugSpZQPmU7h6qNRzLz-VYQ/edit?usp=sharing" target="_blank">Google Document</a>|
 | Analyze network attack Caused by SYN flood attack (DoS attack) | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
-| Network Traffic Monitoring and Attack Detection Using Wireshark TCP/HTTP log | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
+| Investigate Network Traffic Monitoring and Attack Detection Using Wireshark TCP/HTTP log | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
