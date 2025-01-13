@@ -9,7 +9,7 @@ I am currently seeking a position as a Cybersecurity Analyst, where I can apply 
 
 ## Objective
 
-My journey as an IT Auditor has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey as an IT Auditor has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
 with a strong focus on identifying and mitigating risks, threats, and vulnerabilities to ensure the confidentiality, integrity, and availability of critical assets. My objective is to implement effective security measures that protect both organizations and individuals from evolving cyber threats.
 
@@ -19,8 +19,11 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | internal audit controls, compliance checklist and recommendation | <a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>|
-| Analyze DNS and ICMP traffic in transit using data from a  tcpdump network protocol analyzer tool. inspect network traffic and analyze network data to determine what is causing network-related issues during cybersecurity incident | <a href="http://docs.google.com/document/d/1OAq6_wSzoEV_ZvXXGZcoGugSpZQPmU7h6qNRzLz-VYQ/edit?usp=sharing" target="_blank">Google Document</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Analyze DNS and ICMP traffic in transit using data from a tcpdump network protocol analyzer tool | <a href="http://docs.google.com/document/d/1OAq6_wSzoEV_ZvXXGZcoGugSpZQPmU7h6qNRzLz-VYQ/edit?usp=sharing" target="_blank">Google Document</a>|
+| Analyze network attack Caused by Syn flood Dos attack | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
+
+
+
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
