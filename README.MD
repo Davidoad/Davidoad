@@ -23,6 +23,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 | Analyze network attack Caused by SYN flood attack (DoS attack) | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
 | Investigate Network Traffic Monitoring and Attack Detection Using Wireshark TCP/HTTP log | <a href="http://docs.google.com/document/d/1-zYcnspaFoxZ1NkcLwQDvSmAqu_M4x3uwvbuNM8f4E4/edit?usp=sharing" target="_blank">Google Document</a>|
 | Implement OS hardening techniques protection against brute force attack        | <a href="http://docs.google.com/document/d/1zdhsEIVB4p4gS9OW8pfoQ0_UYDXVby_3ilKq_ZXX3qE/edit?usp=sharing" target="_blank">Google Document</a>|
+Improve company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
 | Hardening tools and methods to address vulnerability | <a href="http://docs.google.com/document/d/1PSkGs5Q-S0KSqjvVlMPLPY_esdNfUWXsqwhziV5Fn7Y/edit?usp=sharing" target="_blank">Google Document</a>|
 | Case Management                  | SOC Automation Lab|
 | Incident Response Planning and Execution | SOC Automation Lab|
@@ -56,7 +57,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 
 <div>
 <img src="https://img.shields.io/badge/-CISA-FF5733?style=for-the-badge&logo=ISACA&logoColor=white" alt="CISA Certification Badge" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />    
 
 </div>
 
@@ -64,3 +65,4 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 - internal audit controls, compliance checklist and recommendation | <a href="https://github.com/Davidoad/Project/blob/main/README.md" target="_blank">Audit controls, compliance checklist</a> 
 - SOC Automation Project
 - Network Traffic Monitoring and Attack Detection Using Wireshark TCP/HTTP log
+- Improve a company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
