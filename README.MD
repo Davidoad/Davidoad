@@ -31,7 +31,7 @@ Improve company network security, following the National Institute of Standards 
 
 
 
-| Cyber security Skill                                         | Associated Project         |
+| Cyber Security Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Accomplishment using  Linux commands | <a href="http://docs.google.com/document/d/1nDa7jOU7HwRU8mhjL3TFE4QLukQy7jJlxPACUraUHN4/edit?usp=sharing" target="_blank">Google Document</a>|
 
