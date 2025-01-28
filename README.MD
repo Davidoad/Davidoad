@@ -34,6 +34,7 @@ Improve company network security, following the National Institute of Standards 
 | Cyber Security Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Accomplishment using  Linux commands | <a href="http://docs.google.com/document/d/1e1swcTTNLrS_T_0EMSGG9UZ05bxnxOvR5aMBj2ukWFc/edit?usp=sharing" target="_blank">Google Document</a>|
+| Utilize MariaDB shell in SQL to Retrieve employee device data, Investigate login activity, login attempts data and login time | <a href="http://docs.google.com/document/d/1E4oNpZ6EtYlndDVt1EmvK-49MMTP8RHmQuhIFYDGDAs/edit?usp=sharing" target="_blank">Google Document</a>|
 
 
 
