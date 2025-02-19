@@ -25,7 +25,7 @@ with a strong focus on identifying and mitigating risks, threats, and vulnerabil
 | Implement OS hardening techniques protection against brute force attack        | <a href="http://docs.google.com/document/d/1zdhsEIVB4p4gS9OW8pfoQ0_UYDXVby_3ilKq_ZXX3qE/edit?usp=sharing" target="_blank">Google Document</a>|
 Improve company network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) | <a href="http://docs.google.com/document/d/1z8hj6w12k9z-EFN4hx9EAY2TF8Y6mgWctsGuPrkzamA/edit?usp=sharing" target="_blank">Google Document</a>|
 | Hardening tools and methods to address vulnerability | <a href="http://docs.google.com/document/d/1PSkGs5Q-S0KSqjvVlMPLPY_esdNfUWXsqwhziV5Fn7Y/edit?usp=sharing" target="_blank">Google Document</a>|
-| Hardening tools and methods to address vulnerability | <a href="http://https://docs.google.com/document/d/12GD-quDf0ErRIJd1Xd3EMHXJYHcqbgcvaBkQlDUEdIo/edit?usp=sharing" target="_blank">Google Document</a>|
+| Hardening tools and methods to address vulnerability | <a href="https://docs.google.com/document/d/12GD-quDf0ErRIJd1Xd3EMHXJYHcqbgcvaBkQlDUEdIo/edit?usp=sharing" target="_blank">Google Document</a>|
 | Case Management                  | SOC Automation Lab|
 | Incident Response Planning and Execution | SOC Automation Lab|
 
