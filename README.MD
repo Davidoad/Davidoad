@@ -37,6 +37,14 @@ Improve company network security, following the National Institute of Standards 
 | Accomplishment using  Linux commands | <a href="http://docs.google.com/document/d/1e1swcTTNLrS_T_0EMSGG9UZ05bxnxOvR5aMBj2ukWFc/edit?usp=sharing" target="_blank">Google Document</a>|
 | Utilize MariaDB shell in SQL to Retrieve employee device data, Investigate login activity, login attempts data and login time | <a href="http://docs.google.com/document/d/1E4oNpZ6EtYlndDVt1EmvK-49MMTP8RHmQuhIFYDGDAs/edit?usp=sharing" target="_blank">Google Document</a>|
 Utilized SQL to investigate all potential security issues, and update employee computers as needed | <a href="https://docs.google.com/document/d/1nmWMe7jYNwoaDw9zSx-ERzVcjXPC7ijHARuhzxenuEw/edit?usp=sharing" target="_blank">Google Document</a>|
+Utilized Jupyter Notebook environments to write and execute Python code efficiently, while Conducting hands-on practice to develop and enhance Python coding techniques to real-world security analyst tasks and scenarios.
+
+
+
+**Key Achievements:**
+- Successfully wrote and debugged Python code in Jupyter Notebooks to solve complex security problems.
+- Improved workflow efficiency by leveraging the interactive and iterative capabilities of Jupyter Notebooks.
+- Enhanced problem-solving skills through detailed analysis and hands-on practice in a notebook environment.
 
 
 
