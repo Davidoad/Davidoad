@@ -5,7 +5,7 @@
 With a robust background as an IT Auditor in the Information Technology sector, I hold certifications in both Certified Information Systems Auditor (CISA) and cybersecurity Certification. 
 I thrive on leveraging technology to address complex challenges and deliver impactful solutions.
 
-I am currently seeking a position as a Cybersecurity Analyst, where I can apply my skills and experience to contribute to the security and resilience of an organization.
+I am currently seeking new position, where I can apply my skills and experience to contribute to the security and resilience of an organization.
 
 ## Objective
 
